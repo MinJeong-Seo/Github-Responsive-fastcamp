@@ -1,4 +1,4 @@
-# MinJeong-Seo.github.io
+# Github-Clone
 GitHub Introduction Page (Responsive Web) by FastCampus
 
 # Example
