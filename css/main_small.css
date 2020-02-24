@@ -1,0 +1,47 @@
+/* COMMON */
+.summary__title{
+    font-size: 35px !important; /*우선순위*/
+}
+.summary_description{
+    font-size: 18px !important;
+}
+
+/* FEATURE */
+.section--feature .tiles li{
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* WHERE IS */
+#map{
+    width: auto; /*가로사이즈를 초기화 한다고 생각*/
+    margin: 40px -20px 0 -20px;
+    border-left: none;
+    border-right: none;
+}
+
+/* PRICING */
+.section--pricing .card{
+    display: block;
+}
+.section--pricing .card .cell1{
+    border-bottom: 1px solid #e5e5e5;
+}
+.section--pricing .card .cell2{
+    border-left:none;
+}
+
+/* FOOTER */
+footer .site-links{
+    float: none;
+    display: block;
+    text-align: center;
+}
+footer .site-links:first-child{
+    margin-bottom:10px;
+}
+footer .site-links li{
+    display: inline;
+    font-size: 11px;
+}
